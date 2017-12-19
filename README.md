@@ -1,2 +1,2 @@
-# ziyaretci_sayaci
-Bir sitenin günlük, aylık ve toplam aldığı ziyaretçi sayısını gösteren bir proje.
+# sample
+Kocaeli university open source lab yii2 sample module
